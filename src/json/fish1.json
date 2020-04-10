@@ -1,0 +1,22 @@
+{
+  "id": "Cod-Alaskan",
+  "name": "Cod (Alaskan)",
+  "images": [
+      "img/fish/Cod (Alaskan)1.jpg",
+      "img/fish/Cod (Alaskan)2.jpg"
+  ],
+  "mercury": 0,
+  "ref": "ref--1-1",
+  "local": {
+            "ref": "ref---2",
+            "local": {
+              "ref": "test-----3"
+            },
+            "local2": {
+              "ref": "ref---2",
+              "local": {
+                "ref": "test-----3"
+              }
+            }
+          }
+}

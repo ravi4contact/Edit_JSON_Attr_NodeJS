@@ -1,0 +1,22 @@
+{
+  "id": "Sole-Pacific",
+  "name": "Sole (Pacific)",
+  "images": [
+      "img/fish/Sole (Pacific)1.jpg",
+      "img/fish/Sole (Pacific)2.jpg"
+  ],
+  "mercury": 1,
+  "ref": "ref--2-1",
+  "local": {
+    "ref": "ref---2",
+    "local": {
+      "ref": "test-----3"
+    },
+    "local2": {
+      "ref": "ref---2",
+      "local": {
+        "ref": "test-----3"
+      }
+    }
+  }
+}
